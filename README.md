@@ -1,2 +1,0 @@
-# PossibleAPI
-Possible yfinance exercise
